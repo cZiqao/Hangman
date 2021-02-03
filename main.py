@@ -1,7 +1,5 @@
 import random
 import csv
-
-#Ben = 14
 class Word:
     def __init__(self):
         self.word = None
